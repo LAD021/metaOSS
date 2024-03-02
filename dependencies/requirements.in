@@ -1,0 +1,5 @@
+metagpt==0.7.3
+duckduckgo-search==4.5.0
+feedparser==6.0.11
+aiocron==1.8
+langchain==0.0.352
