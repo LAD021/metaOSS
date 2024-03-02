@@ -2,6 +2,8 @@
 
 ## build
 
+Do what MetaGPT should do
+
 In virtualenv
 
 ```bash
