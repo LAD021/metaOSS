@@ -1,0 +1,61 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JupyterPackageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyBehaveInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="log" />
+            <item index="1" class="java.lang.String" itemvalue="modem" />
+            <item index="2" class="java.lang.String" itemvalue="net" />
+            <item index="3" class="java.lang.String" itemvalue="ujson" />
+            <item index="4" class="java.lang.String" itemvalue="utime" />
+            <item index="5" class="java.lang.String" itemvalue="machine" />
+            <item index="6" class="java.lang.String" itemvalue="misc" />
+            <item index="7" class="java.lang.String" itemvalue="pyb" />
+            <item index="8" class="java.lang.String" itemvalue="ruamel-yaml" />
+            <item index="9" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="10" class="java.lang.String" itemvalue="pydantic-core" />
+            <item index="11" class="java.lang.String" itemvalue="ruamel-yaml-clib" />
+            <item index="12" class="java.lang.String" itemvalue="jupyter-core" />
+            <item index="13" class="java.lang.String" itemvalue="jupyterlab-widgets" />
+            <item index="14" class="java.lang.String" itemvalue="jupyter-client" />
+            <item index="15" class="java.lang.String" itemvalue="gitignore-parser" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N801" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="logic_debugger.evaluate_drive_type.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
