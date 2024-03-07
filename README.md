@@ -15,3 +15,9 @@ shell scripts/build.sh
 ```shell
 python app/main.py
 ```
+
+## run babymeta
+
+```shell
+python babymeta/main.py
+```
